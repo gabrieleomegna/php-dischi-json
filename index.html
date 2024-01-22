@@ -13,7 +13,20 @@
 </head>
 <body>
 
-    <div id="app"></div>
+    <div id="app">
+        <div class="container">
+            <article class="album-card" v-for="(singleAlbum, index) in albumList" :key="index">
+                <section class="cover">
+                    <img :src="singleAlbum.coverImage" alt="Album cover image">
+                </section>
+                <section class="description">
+                    <h3>{{singleAlbum.name}}</h3>
+                    <p>{{singleAlbum.author}}</p>
+                    <h4>{{singleAlbum.releaseYear}}</h4>
+                </section>
+            </article>
+        </div>
+    </div>
 
     <!-- SCRIPT -->
     <script src="./js/script.js"></script>

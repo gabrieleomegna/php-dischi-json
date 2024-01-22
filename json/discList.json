@@ -1,37 +1,37 @@
 [
     {
         "name" : "New Jersey",
-        "albumCover" : "https://i.discogs.com/DjvlsxFzVV4KZSXJlo_4atcsTBZfWpHzXUwG_GKv-Jc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTg3/NzItMTUxNzQ4NjYw/NS0zNTk3LmpwZWc.jpeg",
+        "coverImage" : "https://i.discogs.com/DjvlsxFzVV4KZSXJlo_4atcsTBZfWpHzXUwG_GKv-Jc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMTg3/NzItMTUxNzQ4NjYw/NS0zNTk3LmpwZWc.jpeg",
         "author": "Bon Jovi",
         "releaseYear": "1988"
     },
     {
         "name" : "Live at Wembley 86",
-        "albumCover" : "https://m.media-amazon.com/images/I/517xJwQO1PL._AC_UF894,1000_QL80_.jpg",
+        "coverImage" : "https://m.media-amazon.com/images/I/517xJwQO1PL._AC_UF894,1000_QL80_.jpg",
         "author": "Queen",
         "releaseYear": "1992"
     },
     {
         "name" : "Ten's Summoner's Tales",
-        "albumCover" : "https://www.offtherecord.com.gr/wp-content/uploads/2016/09/stingten.jpg",
+        "coverImage" : "https://www.offtherecord.com.gr/wp-content/uploads/2016/09/stingten.jpg",
         "author": "Sting",
         "releaseYear": "1993"
     },
     {
         "name" : "Steve Gadd band",
-        "albumCover" : "https://m.media-amazon.com/images/I/816pHaCXh+L._UF1000,1000_QL80_.jpg",
+        "coverImage" : "https://m.media-amazon.com/images/I/816pHaCXh+L._UF1000,1000_QL80_.jpg",
         "author": "Steve Gadd band",
         "releaseYear": "2018"
     },
     {
         "name" : "Brave new World",
-        "albumCover" : "https://upload.wikimedia.org/wikipedia/en/0/03/Iron_Maiden_-_Brave_New_World.jpg",
+        "coverImage" : "https://upload.wikimedia.org/wikipedia/en/0/03/Iron_Maiden_-_Brave_New_World.jpg",
         "author": "Iron Maiden",
         "releaseYear": "2000"
     },
     {
         "name" : "One more car, one more rider",
-        "albumCover" : "https://coverartarchive.org/release/e6fa67f4-faa3-4cb3-8bd4-a441894f55d7/6605693960-1200.jpg",
+        "coverImage" : "https://coverartarchive.org/release/e6fa67f4-faa3-4cb3-8bd4-a441894f55d7/6605693960-1200.jpg",
         "author": "Eric Clapton",
         "releaseYear": "2002"
     }
